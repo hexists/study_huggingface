@@ -1,3 +1,6 @@
-jupyter==1.0.0
 transformers==4.27.3
 jupyterlab==3.6.3
+huggingface-hub==0.14.1
+transformers==4.27.3
+pandas==2.0.1
+torch==2.0.1
