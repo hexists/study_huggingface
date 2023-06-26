@@ -4,3 +4,5 @@ huggingface-hub==0.14.1
 transformers==4.27.3
 pandas==2.0.1
 torch==2.0.1
+optuna==3.2.0
+datasets==2.10.1
